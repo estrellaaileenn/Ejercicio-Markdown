@@ -1,0 +1,25 @@
+# Ejercicio Markdown 03 - HTML MD 💻
+
+## Introducción
+Holaaaa en esta tercera tarea voy a hablar sobre **HTML**. Ya vimos el DOM, pero ahora toca ir a la raíz de todo. Si el internet fuera un edificio, el HTML serían los ladrillos y las varillas que lo mantienen en pie. Aquí les cuento un poco de lo que aprendimos en la clase y por qué, aunque parezca puro código aburrido, es súper importante para nosotros en el **IADA**.
+
+## Síntesis
+Bueno, para empezar, **HTML** significa *HyperText Markup Language*. Algo que nos dejaron súper claro es que NO es un lenguaje de programación (aunque mucha gente se confunde), sino de marcado. O sea, usamos etiquetas para decirle al navegador: "Oye, esto que pongo aquí es un título", "esto es un párrafo" o "aquí ponme el GIF de Yoongi que me gusta". Es como darle las instrucciones de montaje a alguien que está armando un mueble; si no le dices qué pieza va en dónde, pues nada va a encajar.
+
+La estructura básica siempre es la misma: empezamos con el `<!DOCTYPE html>` para que el navegador sepa, y luego abrimos la etiqueta `<html>`. Adentro lleva el `<head>`, donde ponemos el título de la página y cosas que no se ven a simple vista, y el `<body>`, que es donde sucede toda la magia del diseño. Aprendimos a usar etiquetas como `<h1>` para los títulos grandotes y `<p>` para el texto normal. Lo que está cool es que si escribes bien tu HTML, el **DOM** puede organizar todo ese árbol de nodos de forma súper fácil. Es como si el HTML fuera el guion y el DOM fuera el director de la película que hace que todo se mueva.
+
+En mi carrera de diseño, esto me sirve porque cuando quiero hacer mis proyectos de ropa o accesorios y subirlos a una web, necesito que el sitio sea ordenado. Aprendimos sobre las etiquetas semánticas como `<header>`, `<main>` y `<footer>`. Esto ayuda a que Google encuentre más rápido mis cosas. Son más de 350 palabras de pura estructura que, aunque a veces cansa escribir tanta etiqueta, son lo que hace que una página se vea profesional y no como un relajo de letras. Cada etiqueta tiene su razón de ser, y entender cómo anidarlas correctamente es lo que separa a un diseño que solo "se ve bien" de uno que "funciona increíble" para el usuario que nos visita.
+
+## Reflexión
+A mí me parece que el HTML es como el abecedario de la web. Como me encanta el diseño digital y tengo mi emprendimiento, aprender esto me da una ventaja enorme. Ya no solo veo una página y digo "qué bonito", ahora entiendo cómo la construyeron por dentro. Me gusta sentir que tengo el control de la estructura y que puedo armar mis sitios tal cual me los imagino en mi cabeza, sin depender de que alguien más me lo haga.
+
+## Conclusión
+Para terminar, el HTML es la base de todo lo que hacemos en el mundo digital. Después de este ejercicio, me queda claro que sin un buen HTML, no hay diseño ni interactividad que valga. Es el primer paso para cualquier diseñador que quiera hacer cosas pro en internet. Está muy padre ver cómo unas cuantas etiquetas pueden crear algo tan grande.
+
+---
+
+### Mi inspiración de siempre (Yoongi)
+
+![Yoongi](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkbmR5ZGFueXN6ZzB3bm00ZzR3eGdyZzI3cjN3bmZzZzR3eGdyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8u96L2iP9x72/giphy.gif)
+
+*Picando código HTML con la misma intensidad que Suga cuando está terminando un álbum en el estudio.* 🐱🔥
