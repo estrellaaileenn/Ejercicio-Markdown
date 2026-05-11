@@ -1,0 +1,25 @@
+# Ejercicio Markdown 02 - DOM MD 🌟
+
+## Introducción 
+¡Hola! En este texto voy a explicar un poco de qué trata eso del **DOM**. Es un tema que vimos en clase y, aunque al principio suena súper técnico, la verdad es que está muy interesante porque es lo que hace que las páginas de internet no sean aburridas y estáticas. Básicamente, vamos a ver cómo se conecta el diseño con el código para que todo funcione.
+
+## Síntesis 
+Bueno, para explicarlo fácil, el **DOM (Document Object Model)** es como el "esqueleto" o el mapa de una página web. Imagínate que cuando abres una página en tu navegador, este lee todo el HTML y crea un árbol de objetos. Cada cosita que ves (un título, una imagen de Yoongi, un botón o un párrafo) es un "nodo" en ese árbol. Gracias a esto, podemos usar lenguajes como JavaScript para entrar a la página y cambiar cosas sin tener que refrescar todo. Es como si pudieras cambiarle la ropa a un maniquí sin tener que volver a armar toda la vitrina.
+
+Lo que nos explicaron es que el DOM organiza todo de forma jerárquica. Arriba de todo está el `window` y luego el `document`. De ahí van saliendo ramas: que si el `head`, que si el `body`, y dentro de eso todos los elementos que diseñamos. Esto es súper útil porque si quiero que un botón cambie de color cuando alguien le pase el mouse por encima, el DOM me permite encontrar ese botón exacto y darle la orden de cambiar. Es la herramienta que hace que el internet sea interactivo y no solo un texto plano que se queda ahí parado.
+
+En mi carrera de diseño en el **IADA**, esto es clave. A veces nos enfocamos mucho en que algo se vea lindo (como la estética Y2K o el grunge que me gusta), pero el DOM es lo que nos permite que esa estética "haga algo". Por ejemplo, si hago un menú interactivo para mi tienda de ropa, estoy usando el DOM para mover esos elementos. Sin esto, no habría redes sociales, ni juegos en el navegador, ni nada de las cosas cool que usamos diario. Son como más de 350 palabras de pura lógica que hacen que nuestras ideas de diseño cobren vida en la pantalla, permitiendo que cada etiqueta HTML sea algo que podemos manipular a nuestro antojo para que el usuario se lleve una experiencia mucho más divertida y profesional al navegar.
+
+## Reflexión 
+A mí me parece que el DOM es como la magia detrás de cámaras. Como me gusta mucho el diseño y tengo mi negocio de accesorios, me sirve un buen entender cómo funciona esto, porque así no solo me quedo en "hacer dibujos", sino que entiendo cómo hacer que la gente interactúe con ellos. Me gusta la idea de tener el control total de cada elemento de la página; se siente como tener superpoderes sobre el diseño web.
+
+## Conclusión 
+En resumen, el DOM es lo que une el mundo del código con el diseño visual. Después de analizarlo, me doy cuenta de que es la base de todo lo que vemos en internet hoy en día. Sin este árbol de nodos, las páginas serían súper simples. Aprender esto me ayuda un montón a crecer como diseñadora y a entender que el diseño digital va mucho más allá de solo lo que se ve a simple vista.
+
+---
+
+### Mi inspiración diaria (Yoongi)
+
+![Yoongi trabajando](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkbmR5ZGFueXN6ZzB3bm00ZzR3eGdyZzI3cjN3bmZzZzR3eGdyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8u96L2iP9x72/giphy.gif)
+
+*Estudiando el DOM con la misma pasión que Suga cuando está en el estudio produciendo un hit.* 🐱✨
